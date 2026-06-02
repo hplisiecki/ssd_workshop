@@ -9,3 +9,10 @@
 
 
 
+
+
+### Tutaj apka będzie w przyszłości:
+
+https://github.com/hplisiecki/SSD_APP
+
+
